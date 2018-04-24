@@ -1,3 +1,3 @@
 # DNSLookup
 
-Does DNS lookup.
+DNS lookup built in Java.
